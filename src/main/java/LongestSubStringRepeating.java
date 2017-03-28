@@ -15,8 +15,6 @@ import java.util.*;
 public class LongestSubStringRepeating
 {
 
-
-
     public int substring_nonrec(String s)
     {
         int n = s.length(), ans = 0;
